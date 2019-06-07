@@ -12,7 +12,7 @@
 
 ## Getting Started
 
-BOA has three packages that are available as NPM packages. [@kuveytturk/boa-base](/packages/base/) has base components like a composer (HOC), themes, error boundary, enums etc. [@kuveytturk/boa-components](/packages/components/) is the main UI component library. [@kuveytturk/boa-utils](/packages/utils/) has localization and messaging utilities. Each component is documented on its own package dictionary.
+BOA has three packages that are available as NPM. [@kuveytturk/boa-base](/packages/base/) has base components like a composer (HOC), themes, error boundary, enums etc. [@kuveytturk/boa-components](/packages/components/) is the main UI component library. [@kuveytturk/boa-utils](/packages/utils/) has localization and messaging utilities. Each component is documented on its own package dictionary.
 
 ## Questions
 
